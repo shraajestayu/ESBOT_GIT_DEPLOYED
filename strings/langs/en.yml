@@ -75,7 +75,7 @@ admin_34 : "Failed to seek the current stream."
 
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "┏━━━▰»»•ESBOT•««▰━━━┓\n    Hey There •🧚‍♀️\n    I'm {0}\n\n    ⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑\n    ━━━━━━━━━━━━\n    ESBOT Is Now A Famous\n    & Safe Bot For Playing\n    Music In Many Groups\    ---------------------\n    You Can Play Music\n    From Your Spotify\n    Resso, AppleMusic &\n    Soundcloud Too\n    ━━━━━━━━━━━━\n ▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n            📡⏤‌𝙀𝙎𝘽𝙊𝙏 • 💽\n ▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n join @LIFE_CODES\n For Any Help? Visit:- @ESBOT_HELP\n╘══════════════════╛"
+start_2 : "┏━━━▰»»•ESBOT•««▰━━━┓\n    Hey There •🧚‍♀️\n    I'm {0}\n\n    ⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑\n    ━━━━━━━━━━━━\n    ESBOT Is Now A Famous\n    & Safe Bot For Playing\n    Music In Many Groups\    ---------------------\n    You Can Play Music\n    From Your Spotify\n    Resso, AppleMusic &\n    Soundcloud Too\n    ━━━━━━━━━━━━\n ▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n            📡⏤‌𝙀𝙎𝘽𝙊𝙏 • 💽\n ▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n join @LIFE_CODES\n For Any Help? Visit:- @ESBOT_HELP\n ╘═══════════════╛"
 start_3 : "Tʜᴀɴᴋs Fᴏʀ Aᴅᴅɪɴɢ Mᴇ•🦋 {0} ❤️\n-------------------------\n\nESBOT Usage:\n1.Please Make Me Admin Here!\n2. Use /play Song's name\n\n\n▰▰▰▰▰▰▰▰▰▰▰▰▰\n             •⏤‌𝙀𝙎𝘽𝙊𝙏•\n      A Bᴇsᴛ Mᴜsɪᴄ Pʟᴀʏᴇʀ\n              ★SHRAAJ★\n▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n ⋐•Assɪsᴛᴀɴᴛ UID: @{1}\n ⋐•Assɪsᴛᴀɴᴛ ID   : {2}"
 start_4 : "┏━━━▰»»•ESBOT•««▰━━━┓\n Most Welcome Sir[{1}]. You Are My God."
 start_5 : "Sudo User[{1}] Here. Welcome Buddy!"
@@ -229,10 +229,10 @@ queue_4 : "⏳ Added to Queue at **#{0}\n\n💡Title:** {1}\n**⏱Duration:** {2
 queue_5 : "Only one track inside queue, Please add some more to check list"
 
 # All Streaming Lines
-stream_1 : "┏━━━▰»»•ESBOT•««▰━━━┓\n 📡 **Playing** 💡\n\n👤**Played By:** {0}\n🔦**More: **[Here]({1})\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
-stream_2 : "┏━━━▰»»•ESBOT•««▰━━━┓\n 📡 **Playing via URL ** 💡\n\n👤**Played By:** {0}\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
-stream_3 : "┏━━━▰»»•ESBOT•««▰━━━┓\n 📡 **Playing** 💡\n\n**🏷Name:** {0}\n🚀**Played By:** {2}\n⌛️**Duration**: {1}\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
-stream_4 : "┏━━━▰»»•ESBOT•««▰━━━┓\n 📡 **Playing** 💡\n\n**🏷Name:** [{0}]({1})\n🚀**Played By:** {3}\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
+stream_1 : "┏━━▰»»•ESBOT•««▰━━┓\n 📡 **Playing** 💡\n\n👤**Played By:** {0}\n🔦**More: **[Here]({1})\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
+stream_2 : "┏━━▰»»•ESBOT•««▰━━┓\n 📡 **Playing via URL ** 💡\n\n👤**Played By:** {0}\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
+stream_3 : "┏━━▰»»•ESBOT•««▰━━┓\n 📡 **Playing** 💡\n\n**🏷Name:** {0}\n🚀**Played By:** {2}\n⌛️**Duration**: {1}\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
+stream_4 : "┏━━▰»»•ESBOT•««▰━━┓\n 📡 **Playing** 💡\n\n**🏷Name:** [{0}]({1})\n🚀**Played By:** {3}\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
 
 # Inline Buttons
 

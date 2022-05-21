@@ -75,11 +75,11 @@ admin_34 : "Failed to seek the current stream."
 
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "Hello, My name is {0}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
-start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
-start_4 : "{0}'s Owner[{1}] has just joined your chat."
-start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
-start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** to **supergroup** and then add me back.\n\n**How to make supergroup?**\n✅ Make your group's chat history **visible** once."
+start_2 : "┏━━━▰»»•ESBOT•««▰━━━┓\n    Hey There •🧚‍♀️\n    I'm {0}\n\n    ⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑⋐⋑\n    ━━━━━━━━━━━━\n    ESBOT Is Now A Famous\n    & Safe Bot For Playing\n    Music In Many Groups\    ---------------------\n    You Can Play Music\n    From Your Spotify\n    Resso, AppleMusic &\n    Soundcloud Too\n    ━━━━━━━━━━━━\n ▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n            📡⏤‌𝙀𝙎𝘽𝙊𝙏 • 💽\n ▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n join @LIFE_CODES\n For Any Help? Visit:- @ESBOT_HELP\n╘══════════════════╛"
+start_3 : "Tʜᴀɴᴋs Fᴏʀ Aᴅᴅɪɴɢ Mᴇ•🦋 {0} ❤️\n-------------------------\n\nESBOT Usage:\n1.Please Make Me Admin Here!\n2. Use /play Song's name\n\n\n▰▰▰▰▰▰▰▰▰▰▰▰▰\n             •⏤‌𝙀𝙎𝘽𝙊𝙏•\n      A Bᴇsᴛ Mᴜsɪᴄ Pʟᴀʏᴇʀ\n              ★SHRAAJ★\n▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n ⋐•Assɪsᴛᴀɴᴛ UID: @{1}\n ⋐•Assɪsᴛᴀɴᴛ ID   : {2}"
+start_4 : "┏━━━▰»»•ESBOT•««▰━━━┓\n Most Welcome Sir[{1}]. You Are My God."
+start_5 : "Sudo User[{1}] Here. Welcome Buddy!"
+start_6 : "┏━━━▰»»•ESBOT•««▰━━━┓\n❗️ **Supergroup Needed** ❗️\n\nPlease make your **group** public. than add & make me admin with Permission!\n\nafter doing all above, you can make your group private again\n\n**How to make supergroup?**\n✅ Make your group's chat history **visible** once & public"
 start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. Please ask any SudoUser to whitelist chat first. Check [Sudolist from here]({0})"
 
 # Help
@@ -204,8 +204,8 @@ lyrics_3 : "❌ Failed to fetch lyrics😭.\n\n💡**Tried Searching For:** {0}"
 lyrics_4 : "Click on the button below and get searched lyrics to avoid long spam types lyrics search."
 
 #Ping
-ping_1 : "Pong!!!!"
-ping_2 : "{0} is working good with a ping of `{1}` ms.\n\nBot's uptime is {2} and has used a total of {3} server's storage. Cpu load is about {4} with a consumption of {5} Ram. Py-Tgcalls client is also having a good ping of `{6}` ms."
+ping_1 : "Online 📡!!"
+ping_2 : "╔════🎸⚡️🎸═════╗\n   ❂ 𝗕𝗼𝘁 𝗜𝘀 𝗢𝗻𝗹𝗶𝗻𝗲 • 📡 ✅\n   ❂ 𝗘𝗦𝗕𝗢𝗧•𝗣𝗜𝗡𝗚 ▷ {1}\n   •━━━━-----━━━━•\n     ⚝•Cᴘᴜ ☛ {4}\n     ⚝•Rᴀᴍ ☛ {5}\n     ⚝•Sᴛᴏʀᴀɢᴇ ☛ {3}\n     ⚝•Pʏ-Tɢᴄᴀʟʟs Pɪɴɢ ☛ {6}\n     ⚝•Uᴘᴛɪᴍᴇ ☛ {2}\n\n╚════🎤⚡️🎤════╝"
 
 
 # Song
@@ -229,10 +229,10 @@ queue_4 : "⏳ Added to Queue at **#{0}\n\n💡Title:** {1}\n**⏱Duration:** {2
 queue_5 : "Only one track inside queue, Please add some more to check list"
 
 # All Streaming Lines
-stream_1 : "📡 **Started Streaming** 💡\n\n👤**Requested By:** {0}\n🔦**Information: **[Here]({1})"
-stream_2 : "📡 **Started Streaming via URL ** 💡\n\n👤**Requested By:** {0}"
-stream_3 : "📡 **Started Streaming** 💡\n\n**🏷Title:** {0}\n⌛️**Duration**: {1}\n👤**Requested By:** {2}"
-stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n👤**Requested By:** {3}"
+stream_1 : "┏━━━▰»»•ESBOT•««▰━━━┓\n 📡 **Playing** 💡\n\n👤**Played By:** {0}\n🔦**More: **[Here]({1})\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
+stream_2 : "┏━━━▰»»•ESBOT•««▰━━━┓\n 📡 **Playing via URL ** 💡\n\n👤**Played By:** {0}\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
+stream_3 : "┏━━━▰»»•ESBOT•««▰━━━┓\n 📡 **Playing** 💡\n\n**🏷Name:** {0}\n🚀**Played By:** {2}\n⌛️**Duration**: {1}\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
+stream_4 : "┏━━━▰»»•ESBOT•««▰━━━┓\n 📡 **Playing** 💡\n\n**🏷Name:** [{0}]({1})\n🚀**Played By:** {3}\nJoin:- @Life_Codes\nAsk Help:- @ESBOT_HELP"
 
 # Inline Buttons
 
@@ -246,7 +246,7 @@ UNBAN_BUTTON : "🗑 Unban Assistant"
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
+S_B_1 : "🗒 Help"
 S_B_2 : "🔧 Settings"
 S_B_3 : "📨 Support"
 S_B_4 : "📨 Channel"

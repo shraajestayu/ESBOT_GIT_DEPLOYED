@@ -37,7 +37,7 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(-1001758899524)
+LOG_GROUP_ID = int(1001758899524)
 
 # A name for your Music bot.
 MUSIC_BOT_NAME = str("ESBOT_MUSIC_BOT")

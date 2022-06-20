@@ -37,13 +37,13 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(1001758899524)
+LOG_GROUP_ID = int("-1001265426244")
 
 # A name for your Music bot.
 MUSIC_BOT_NAME = str("ESBOT_MUSIC_BOT")
 
 # Your User ID.
-OWNER_ID = list(int(5353041927)) # Input type must be interger
+OWNER_ID = int("5353041927") # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -54,7 +54,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ESTAYU/ESBOT-V3.0",
+    "https://github.com/ESTAYU/ESBOT_VPS",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 

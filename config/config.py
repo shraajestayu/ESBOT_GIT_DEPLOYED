@@ -21,7 +21,7 @@ API_ID = int(16297798)
 API_HASH = str("13eeee210aecf4e2f5f866552cad477e")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = str("5531925252:AAHQUq0v3pCf3XqHTur-EG8XkhPKPoC8i6k")
+BOT_TOKEN = str("5531925252:AAGCMFgLUApJdog5uubxWOxnU9bTqvjVoKg")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
 MONGO_DB_URI = str("mongodb+srv://estella:iambrijesh@cluster0.0tkts.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
@@ -40,10 +40,10 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int("-1001265426244")
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = str("ESBOT_MUSIC_BOT")
+MUSIC_BOT_NAME = str("ESBOT_MUSIC_BOT_Lifeline_S")
 
 # Your User ID.
-OWNER_ID = int("5353041927") # Input type must be interger
+OWNER_ID = int[5353041927,5488909898] # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
